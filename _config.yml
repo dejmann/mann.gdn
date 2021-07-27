@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mann.gdn - Bits and bobs.
+title: mann.gdn - Personal technology blog
 email: daniel@mann.gdn
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal technology blog, posting things I find useful, tutorials, guides and general errors I encounter. Hosted on AWS S3.
+  Posting things I find useful, tutorials, guides and general errors I encounter. Hosted on AWS S3.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mann.gdn/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dejmann
