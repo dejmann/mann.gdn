@@ -6,6 +6,7 @@ rvm:
 # Install Jekyll
 install:
   - gem install jekyll
+  - gem install jekyll-theme-hydure
 
 # Build Jekyll blog
 script:
